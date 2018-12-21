@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<meta name="keywords" content="1028LOVE" />
+        <meta name="keywords" content="1028LOVE" />
 		<meta name="description" content="1028LOVE" />
 		<link rel="shortcuticon" href="favicon.ico" />
 		<title>1028LOVE</title>
@@ -135,11 +135,26 @@
 				<li><i></i>弹幕开关控制弹幕显示</li>
 				<li><i></i>发弹幕开关可以发送弹幕</li>
 				<li><i></i>空中俯瞰切换外景俯瞰</li>-->
-                <div align="center" ><img src="1028love.png">	</div>			
+                <div><img src="1028love.png">	</div>			
 			</ol>
-			<span class="tanClose"></span>
+			<span id="tanClose" class="tanClose"></span>
 		</div>
 		<script src="jquery.min.js"></script>
 		<script src='index.js'></script>	
+<script type="text/javascript">
+// 两秒后模拟点击
+setTimeout(function() {
+    // IE
+    if(document.all) {
+        document.getElementById("tanClose").click();
+    }
+    // 其它浏览器
+    else {
+        var e = document.createEvent("MouseEvents");
+        e.initEvent("click", true, true);
+        document.getElementById("tanClose").dispatchEvent(e);
+    }
+}, 3000);
+</script>
 </body>
 </html>
