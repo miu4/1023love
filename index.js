@@ -25,6 +25,8 @@ var arrdata = [
 	{"headimg":"img/tanmuhead.jpg","message":"有緣再見","vote":1028,"id":14,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I may be leaving.Maybe...","vote":1028,"id":15,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I may be leaving.Maybe...","vote":1028,"id":16,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"Do you know the probability of liking a person with the same birthday?In accidental.
+","vote":1028,"id":16,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I've feeling for U. ","vote":1028,"id":999999,"state":1}
 
 ]
