@@ -25,9 +25,11 @@ var arrdata = [
 	{"headimg":"img/tanmuhead.jpg","message":"有緣再見","vote":1028,"id":14,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I may be leaving.Maybe...","vote":1028,"id":15,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I may be leaving.Maybe...","vote":1028,"id":16,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":"Do you know the probability of liking a person with the same birthday?In accidental.","vote":1028,"id":16,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":"I may not find a second you.","vote":1028,"id":16,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":"Bless U.","vote":1028,"id":16,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"Do you know the probability of liking a person with the same birthday?In accidental.","vote":1028,"id":17,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"I may not find a second you.","vote":1028,"id":18,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"Bless U.","vote":1028,"id":19,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"Am I losing?I'm serious.","vote":1028,"id":20,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"One in 365 is on the same birthday. The odds of same-sex birthdays are even slighter. Do you know how many people you can meet in your life?","vote":1028,"id":21,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I've feeling for U. ","vote":1028,"id":999999,"state":1}
 
 ]
