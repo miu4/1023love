@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>1028LOVE</title>
+		<link rel='stylesheet' href="css/reset.css">
+		<link rel='stylesheet' href="css/index1.css">
+		<!--<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />-->
+		<style>
+			@media all and (max-width:500px){
+    			initScreen{
+					position: absolute;
+					left:20%;
+					top:20%;
+					width: 60%;
+					height:320px;
+					z-index: 1000;
+					background:#fff;
+					color:#000;
+					border-radius: 30px;
+				}
+			}
+		</style>
+		<script>
+			
+			var dpr = 1 / window.devicePixelRatio;
+			//alert(window.screen.availWidth);
+//			document.write('<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale='+dpr+',minimum-scale='+dpr+',maximum-scale='+dpr+'" />')
+			document.write('<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,minimum-scale=1,maximum-scale=1 " />')
+			var fz = document.documentElement.clientWidth /9;
+			
+			document.getElementsByTagName('html')[0].style.fontSize = (fz*dpr) + 'px';
+			//console.log(fz,dpr);
+			
+			
+			window.onload = function(){
+				getType();
+			}
+			//判断设备是iPad还是iphone;
+			function getType(){  
+		        if(navigator.userAgent.indexOf("iPhone") != -1){  
+		            $(".initS").removeClass("initScreenIpad");
+		        }  
+		        if(navigator.userAgent.indexOf("iPad") != -1){ 
+		        	console.log($(".initScreen"));
+		            $(".initS").addClass("initScreenIpad");
+		            
+		        }
+		    }
+			
+			
+		</script>
+	</head>
+	<body>
+		<div id="wrap">			
+			<nav class="navbox">
+				<div class="navContent">
+					<div class="navList c-wenzi">
+						<i class="navIco-wenzi navico"></i>
+						<span class="navText">
+							文字开关
+						</span>
+					</div>
+					<div class="navList c-yuyin"> 
+						<i class="navIco-yuyin navico"></i>
+						<span class="navText">
+							音乐开关
+					  </span>
+					</div>
+					<div class="navList c-tanmu">
+						<i class="navIco-tanmu navico"></i>
+						<span class="navText">
+							弹幕开关
+						</span>
+					</div>
+					<div class="navList c-fatan">
+						<i class="navIco-fatan navico"></i>
+						<span class="navText">
+							发弹幕
+						</span>
+					</div>
+					<div class="navList c-src">
+						<i class="navIco-src navico"></i>
+						<span class="navText">
+							空中俯瞰
+						</span>
+					</div>
+					<!--<span><i class="navIco-share navico"></i></span>-->
+				</div>					
+				<div class="pothook">
+				</div>
+			</nav>		
+			<!--这里是嵌套的模型-->
+			<div class="model-wrap">
+				<iframe src="3d/index.html" width="100%" height="100%"></iframe>
+			</div>
+			<!--这里是弹幕-->
+			<!--<div class="tanmu">
+				<div class="tanmuContent">
+					<span class="headImg"></span>
+					这是一个弹幕
+					<div class="praiseBox">
+						<span class="t-praise t-praise1"></span>
+						<span class="t-numer">123</span>
+					</div>	
+				</div>		
+			</div>-->
+			<!--send start-->
+			<div class="send">
+				<div class="s_fiter">
+					<!--<div class="s_con">-->
+						<input type="text" class="s_txt" maxlength="12" placeholder="发送弹幕，最多可写12字"/>
+						<div class="s_sub"></div>
+						<!--<input type="button" value="发送" class="s_sub"/>-->
+					<!--</div>-->
+				</div>
+			</div>
+			<!--end send-->
+		</div>
+		<audio src='BeTheBest.mp3' class="audio"></audio>
+		<div class="bz">
+			<div class="bzContent">
+				UBeTheBest 1028LOVE.COM
+		  </div>	
+		</div>
+		<div class="initScreen initS">
+			<h3>1028LOVE</h3>
+			<ol class="ollist">
+				<!--<li><i></i>文字开关控制字幕</li>
+				<li><i></i>语音开关控制声音</li>
+				<li><i></i>弹幕开关控制弹幕显示</li>
+				<li><i></i>发弹幕开关可以发送弹幕</li>
+				<li><i></i>空中俯瞰切换外景俯瞰</li>-->
+                <div align="center" ><img src="1028love.png">	</div>			
+			</ol>
+			<span class="tanClose"></span>
+		</div>
+		<script src="jquery.min.js"></script>
+		<script src='index.js'></script>	
+</body>
+</html>
