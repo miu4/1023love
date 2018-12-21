@@ -23,7 +23,8 @@ var arrdata = [
 	{"headimg":"img/tanmuhead.jpg","message":"Would U like me?妳會喜歡我嗎？不會啊。那我教妳好了(#^.^#)","vote":1028,"id":12,"state":1},
 	{"headimg":"img/tanmuhead.jpg","message":"I seem to like U.","vote":1028,"id":13,"state":1},
 	{"headimg":"img/tanmuhead.jpg","message":"有緣再見","vote":1028,"id":14,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":"I've feeling for U. ","vote":1028,"id":15,"state":1}
+	{"headimg":"img/tanmuhead.jpg","message":"I may be leaving.Maybe...","vote":1028,"id":14,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"I've feeling for U. ","vote":1028,"id":999999,"state":1}
 
 ]
 
