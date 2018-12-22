@@ -33,7 +33,8 @@ var arrdata = [
 	{"headimg":"img/tanmuhead.jpg","message":"Try My Best.","vote":1028,"id":22,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I Know you wannt to ask why.Because of my inferiority complex","vote":1028,"id":23,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"Science tells me one year later will forget you.","vote":1028,"id":24,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":25,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"I blackened U On 10-28.┭┮﹏┭┮","vote":1028,"id":25,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":26,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I've feeling for U. ","vote":1028,"id":999999,"state":1}
 
 ]
