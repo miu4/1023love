@@ -30,8 +30,10 @@ var arrdata = [
 	{"headimg":"img/tanmuhead.jpg","message":"Bless U.","vote":1028,"id":19,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"Am I losing?I'm serious.","vote":1028,"id":20,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"One in 365 is on the same birthday. The odds of same-sex birthdays are even slighter. Do you know how many people you can meet in your life?","vote":1028,"id":21,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":"Try My Best.","vote":1028,"id":20,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":20,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"Try My Best.","vote":1028,"id":22,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"I Know you wannt to ask why.Because of my inferiority complex","vote":1028,"id":23,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"Science tells me one year later will forget you.","vote":1028,"id":24,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":25,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I've feeling for U. ","vote":1028,"id":999999,"state":1}
 
 ]
