@@ -37,7 +37,7 @@ var arrdata = [
 	{"headimg":"img/tanmuhead.jpg","message":"Now I have no ability to give you the life you want.","vote":1028,"id":26,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"You can best.","vote":1028,"id":27,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I secretly removed you from the blacklist.","vote":1028,"id":28,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":29,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"I fallen U.","vote":1028,"id":29,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":30,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":31,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":32,"state":0},
