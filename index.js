@@ -34,7 +34,20 @@ var arrdata = [
 	{"headimg":"img/tanmuhead.jpg","message":"I Know you wannt to ask why.Because of my inferiority complex","vote":1028,"id":23,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"Science tells me one year later will forget you.","vote":1028,"id":24,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I blackened U On 10-28.┭┮﹏┭┮","vote":1028,"id":25,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":26,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"Now I have no ability to give you the life you want.","vote":1028,"id":26,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":27,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":28,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":29,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":30,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":31,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":32,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":33,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":34,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":35,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":36,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":37,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":38,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":39,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I've feeling for U. ","vote":1028,"id":999999,"state":1}
 
 ]
