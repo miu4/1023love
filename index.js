@@ -42,12 +42,13 @@ var arrdata = [
 	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":31,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":32,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":33,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":34,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":35,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":36,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":37,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":38,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":39,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"Have no experience, do not know how to start.","vote":1028,"id":34,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"我記得妳送給我的卡士.","vote":1028,"id":35,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"我記得妳害羞的小臉蛋.","vote":1028,"id":36,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"像我這樣的人，壹無是處.","vote":1028,"id":37,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"像我這樣的人，莫名其妙.","vote":1028,"id":38,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"Marriage is the biggest bet. You can't get it wrong.像我這樣的人，莫名其妙.","vote":1028,"id":39,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"妳是第壹個送吃的給我的女生，第壹個禮物的是淘寶買家，她送了壹盆花給我，後來我養死了haha我喜歡妳，我喜歡蘋果，我喜歡奔馳，我喜歡飛機，喜歡的東西不壹定要買到，太貴了買不起，喜歡的人不壹定要得到，太多了養不起#^.^#喜歡不壹定要在壹起，我只是說我喜歡妳.","vote":1028,"id":999,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I've feeling for U. ","vote":1028,"id":999999,"state":1}
 
 ]
