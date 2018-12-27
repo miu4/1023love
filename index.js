@@ -57,8 +57,8 @@ var arrdata = [
 	{"headimg":"img/tanmuhead.jpg","message":"Why is U.","vote":1028,"id":46,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"Why is you.","vote":1028,"id":47,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"為什麽是妳.","vote":1028,"id":48,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":49,"state":0},
-	{"headimg":"img/tanmuhead.jpg","message":".","vote":1028,"id":50,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"The first and last call in 10-28.Maybe","vote":1028,"id":49,"state":0},
+	{"headimg":"img/tanmuhead.jpg","message":"The first and last message in 11-28.Maybe","vote":1028,"id":50,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"妳是第壹個送吃的給我的女生，第壹個禮物的是淘寶買家，她送了壹盆花給我，後來我養死了haha我喜歡妳，我喜歡蘋果，我喜歡奔馳，我喜歡飛機，喜歡的東西不壹定要買到，太貴了買不起，喜歡的人不壹定要得到，太多了養不起#^.^#喜歡不壹定要在壹起，我只是說我喜歡妳.","vote":1028,"id":999,"state":0},
 	{"headimg":"img/tanmuhead.jpg","message":"I've feeling for U. ","vote":1028,"id":999,"state":1},
 	{"headimg":"img/tanmuhead.jpg","message":"That's all.","vote":1028,"id":99999,"state":0}
